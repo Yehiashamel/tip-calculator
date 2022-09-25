@@ -9,7 +9,8 @@
   
   .wrapper {
     height: 525px;
-    width: 360px;
+    width:100%;
+    max-width: 400px;
     color: white;
     background: #272639;
     border-radius: 1rem;
