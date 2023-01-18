@@ -29,4 +29,3 @@ const decreasePeople = () => {
       NumberOfPeopleDiv.innerText = numberOfPeople
       calculateBill()
 }
-console.log(perPersonTotalDiv)
